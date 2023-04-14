@@ -49,7 +49,7 @@ nav{
     gap:5px;
 }
 .buttons>.signup{
-  background-color: black;
+  background-color: black ;
   color: white;
 }
 .buttons>.login{
